@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr                █████████████████████████   100.00 % 
+C                        1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NGLAB_Ticket_System      1 hr                █████████████████████████   100.00 % 
+NGLAB_Ticket_System      1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
